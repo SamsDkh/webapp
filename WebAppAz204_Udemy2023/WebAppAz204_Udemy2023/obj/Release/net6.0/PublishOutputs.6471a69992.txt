@@ -1,7 +1,0 @@
-C:\Users\samyd\source\repos\WebAppAz204_Udemy2023\WebAppAz204_Udemy2023\obj\Release\net6.0\PubTmp\Out\WebAppAz204_Udemy2023.exe
-C:\Users\samyd\source\repos\WebAppAz204_Udemy2023\WebAppAz204_Udemy2023\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
-C:\Users\samyd\source\repos\WebAppAz204_Udemy2023\WebAppAz204_Udemy2023\obj\Release\net6.0\PubTmp\Out\appsettings.json
-C:\Users\samyd\source\repos\WebAppAz204_Udemy2023\WebAppAz204_Udemy2023\obj\Release\net6.0\PubTmp\Out\WebAppAz204_Udemy2023.dll
-C:\Users\samyd\source\repos\WebAppAz204_Udemy2023\WebAppAz204_Udemy2023\obj\Release\net6.0\PubTmp\Out\WebAppAz204_Udemy2023.deps.json
-C:\Users\samyd\source\repos\WebAppAz204_Udemy2023\WebAppAz204_Udemy2023\obj\Release\net6.0\PubTmp\Out\WebAppAz204_Udemy2023.runtimeconfig.json
-C:\Users\samyd\source\repos\WebAppAz204_Udemy2023\WebAppAz204_Udemy2023\obj\Release\net6.0\PubTmp\Out\WebAppAz204_Udemy2023.pdb
